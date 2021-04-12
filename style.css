@@ -3,3 +3,18 @@ body, html {
 	margin:0;
 	overflow: hidden;
 }
+
+.credits {
+	font-size: 16px;
+	position: fixed;
+	bottom:3%;
+	right:3%;
+}
+
+.info {
+	font-size: 30px;
+	position: fixed;
+	text-align: center;
+	width:100%;
+	bottom:3%;
+}
