@@ -1,0 +1,10 @@
+{
+  "name": "kathy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kevin N. Andersen",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.127.0"
+  }
+}
