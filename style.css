@@ -2,6 +2,7 @@ body, html {
 	padding:0;
 	margin:0;
 	overflow: hidden;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .credits {
@@ -9,12 +10,22 @@ body, html {
 	position: fixed;
 	bottom:3%;
 	right:3%;
+	opacity:0.2;
 }
 
 .info {
 	font-size: 30px;
+	font-weight: bold;
 	position: fixed;
 	text-align: center;
 	width:100%;
 	bottom:3%;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+a {
+	color:black;
 }
